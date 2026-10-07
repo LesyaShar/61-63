@@ -1,3 +1,4 @@
+# Практическая работа: Docker, GitHub Actions и GHCR
 from flask import Flask, jsonify, request
 from db import get_db_connection
 
